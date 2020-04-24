@@ -1,0 +1,32 @@
+body {
+    background: #ff00ff;
+    margin: 0 auto;
+    text-align: center;
+}
+h1 {
+    font-size: 45px;
+    text-transform: uppercase;
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+.button {
+    background: pink;
+    color: black;
+    border: 1px solid blue;
+}
+
+#wrapper {
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+    background: #ffffff;
+}
+
+#game {
+    float: right;
+}
+
+#buttons {
+    float: left;
+}
